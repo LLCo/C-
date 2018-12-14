@@ -1,1 +1,4 @@
-a simple retrosnake code by c++；
+Some simple games code by c++；
+
+Having:
+	1. retrosnake
